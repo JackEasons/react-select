@@ -1,5 +1,11 @@
 # react-select
 
+## 4.2.2
+
+### Patch Changes
+
+- [7a414a7c](https://github.com/JedWatson/react-select/commit/7a414a7c7a1f8e2902e43bd476e3db17a8dce049) [#3262](https://github.com/JedWatson/react-select/pull/3262) Thanks [@JedWatson](https://github.com/JedWatson)! - The Menu bottom is no longer scrolled into view when menuShouldScrollIntoView=false
+
 ## 4.2.1
 
 ### Patch Changes
